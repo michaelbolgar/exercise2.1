@@ -1,8 +1,10 @@
 # Git. README.md (пример)
 
-# Название проекта
+# exercise1
 
-ААААААААААААААААА
+Задача 1
+
+ссылка на репозиторий: https://github.com/michaelbolgar/exercise1.git
 
 ## Начало работы
 
